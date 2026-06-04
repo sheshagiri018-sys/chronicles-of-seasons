@@ -134,17 +134,6 @@ Made with ❤️ by **Sheshagiri**
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sheshagiri018-sys&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheshagiri018-sys&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## ⭐ Support
 
