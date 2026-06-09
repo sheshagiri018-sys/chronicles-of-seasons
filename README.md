@@ -1,4 +1,4 @@
-# chronicles-of-seasons
+# chronicles-of-seasons✨💫
 <!-- 🌌 CHRONICLES OF SEASONS — PREMIUM README -->
 
 <div align="center">
