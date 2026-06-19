@@ -45,16 +45,16 @@ Every scroll feels like moving through **life itself**.
 
 ## ✨ Features
 
-- 🎭 Emotion-based UI storytelling  
-- 🎨 Cinematic gradients + layered visuals  
-- 🌀 Smooth scroll transitions between seasons  
-- 🖱️ Custom animated cursor system  
-- 🌦 Canvas-based atmospheric effects  
-- 🎧 Ambient sound integration  
-- 🌙 Mood adaptive interface  
-- 🧭 Interactive navigation compass  
-- 🔓 Hidden Cosmos mode (Easter Egg)  
-- 📱 Fully responsive design  
+- 🎭 Emotion-based UI storytelling . 
+- 🎨 Cinematic gradients + layered visuals  .
+- 🌀 Smooth scroll transitions between seasons  .
+- 🖱️ Custom animated cursor system  .
+- 🌦 Canvas-based atmospheric effects  .
+- 🎧 Ambient sound integration  .
+- 🌙 Mood adaptive interface  .
+- 🧭 Interactive navigation compass  .
+- 🔓 Hidden Cosmos mode (Easter Egg)  .
+- 📱 Fully responsive design  .
 
 ---
 
