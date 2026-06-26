@@ -24,7 +24,7 @@
 🌈 **Chronicles of Seasons** is not just a website — it is a **visual emotional journey**.
 
 It represents:
-- ☀ Happiness → Summer
+- ☀ Happiness → Summer!!!!
 - 🌧 Sadness → Rain
 - 🍂 Change → Autumn
 - ❄ Silence → Winter
