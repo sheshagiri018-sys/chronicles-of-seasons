@@ -19,7 +19,7 @@
 
 ---
 
-## 🌟 About the Project
+## 🌟 About the Project!!!
 
 🌈 **Chronicles of Seasons** is not just a website — it is a **visual emotional journey**.
 
