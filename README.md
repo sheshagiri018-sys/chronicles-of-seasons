@@ -29,7 +29,7 @@ It represents:
 - 🍂 Change → Autumn
 - ❄ Silence → Winter
 - 🌸 Rebirth → Spring
-- 🌌 Infinity → Cosmos (Hidden Mode)
+- 🌌 Infinity → Cosmos (Hidden Mode)!!!!
 
 Every scroll feels like moving through **life itself**.
 
